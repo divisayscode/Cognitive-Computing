@@ -1,4 +1,4 @@
-# Cognitive Computing (Course Project)
+# Cognitive Computing 
 
 This repository contains my assignments and projects from the **Cognitive Computing** course, where I used Python libraries such as **NumPy**, **Pandas**, **Scikit‑learn**, **Seaborn**, **Matplotlib**, and **NLTK** to explore topics in data processing, visualization, and natural language analysis.
 

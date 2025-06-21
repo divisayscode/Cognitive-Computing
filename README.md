@@ -16,7 +16,7 @@ This repository contains my assignments and projects from the **Cognitive Comput
 
 ## Contents
 
-All of my coursework is available in this repository. Feel free to explore the notebooks and code:
+All of my coursework is available in this repository. 
 
 - Jupyter Notebooks for each lab assignment  
 - Data processing, visualization, ML experimentation  
